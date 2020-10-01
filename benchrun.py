@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/python2.7
 from argparse import ArgumentParser, RawTextHelpFormatter
 from subprocess import Popen, PIPE, check_call
 from tempfile import NamedTemporaryFile
